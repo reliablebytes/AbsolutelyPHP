@@ -1,0 +1,4 @@
+AbsolutelyPHP
+=============
+
+An idea.
